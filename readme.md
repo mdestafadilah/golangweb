@@ -17,3 +17,6 @@ Start Time: Aug 8, 2022 07:22 PM
 Meeting Recording:
 https://us06web.zoom.us/rec/share/8jdRHeY3i309NMCVTdxoiWWSxEr-BnuUw3g7-a06EVCjlpO8Iv6xqLieKsJUM13E.Kg2QooKOV3pseQor
 
+## Youtube
+
+https://www.youtube.com/watch?v=K76y2_ZQYwY
