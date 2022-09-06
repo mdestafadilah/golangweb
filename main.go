@@ -8,6 +8,7 @@ import (
 func main() {
 	mux := http.NewServeMux()
 
+	mux.HandleFunc("/", rootHandler)
 	mux.HandleFunc("/hai", haiHandler)
 
 	log.Println("Menjalankan server web")
@@ -18,4 +19,8 @@ func main() {
 
 func haiHandler(w http.ResponseWriter, r *http.Request) {
 	w.Write([]byte("Hai, saya belajar golang"))
+}
+
+func rootHandler(w http.ResponseWriter, r *http.Request) {
+	w.Write([]byte("Halaman Utama"))
 }
